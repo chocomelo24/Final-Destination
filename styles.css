@@ -1,0 +1,14 @@
+body {
+    background-image: url(./colour.jpg);
+
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.port-im{
+    padding: 50px;
+    
+}
