@@ -1,0 +1,67 @@
+body {
+    background-image: url(./colour.jpg);
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.Jumbotron {
+    text-align: center;
+    background-image: url(./annie-spratt-6a3nqQ1YwBw-unsplash\ \(1\).jpg);
+    color: white;
+}
+
+.Jumbotron, p {
+    font-size: 20px;
+}
+
+.image__img {
+    width: 300px;
+    height: 300px;
+    border: 10px solid white;
+    border-radius: 50%;
+}
+
+.image__title {
+    margin-left: 100px;
+}
+
+.image__title2 {
+    margin-left: 120px;
+} 
+
+.image__title3 {
+    margin-left: 120px;
+}
+
+.image__title4 {
+    margin-left: 75px;
+}
+
+.image__title5 {
+    margin-left: 90px;
+}
+
+.image__title6 {
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+
