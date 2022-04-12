@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {
     background-image: url(./adrien-olichon-_GH9LwhlSO4-unsplash.jpg);
@@ -34,3 +35,35 @@ h1 {
     font-size: 25px;
     font-family: Rubik Microbe;
 }
+=======
+body {
+    background-image: url(./adrien-olichon-_GH9LwhlSO4-unsplash.jpg);
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size: 100px;
+    font-family: Rubik Microbe;
+}
+
+.navbar-nav {
+    margin-left: 580px;
+}
+
+.nav-item {
+    padding: 15px;
+    font-size: 20px;
+    font-family: Rubik Microbe;
+
+}
+>>>>>>> ea773527078acf355b720ba267705b6d6c7bbb81
